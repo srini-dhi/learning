@@ -9,4 +9,5 @@ mydb = mysql.connector.connect(
     user="root",
     password="Srinidhi@16",
     database="sri"
+    # 
 )
